@@ -70,8 +70,8 @@ Once the donor accepts the request, an OTP is sent to the requesting car. The re
 * [Java](https://java.com/en/) 
 * [Android Studio](https://developer.android.com/index.html) Application development
 * [Photoshop](www.adobe.com/Photoshop) creation of icons
-* [Inkscape] (https://gitlab.com/inkscape/inkscape) creation of various images
-* [Firebase](https://firebase.google.com) Database 
+* [Inkscape](https://gitlab.com/inkscape/inkscape) creation of various images
+* [Firebase](https://firebase.google.com) Database
 * [Google Maps API](https://developers.google.com/maps) 
 
 ---
