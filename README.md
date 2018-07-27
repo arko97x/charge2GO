@@ -5,6 +5,7 @@
 </p>
 
 **charge2GO** is a smart barter system for the exchange of charge between electric cars to reduce downtime.
+This hack was developed during the [Hack.Bangalore 2018](https://www.hackerearth.com/sprints/hackbengaluru/) organised by Daimler - Mercedes.
 
 # Current Problem
 
